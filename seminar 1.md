@@ -56,5 +56,4 @@
 
 ***git commit -am"your comment"*** - сочетает в себе сразу две команды *git add + git commit*:
 
-ghbdt6n ghd[frejes
-]
+![Как выглядит команда](git%20add+commit.jpg)
