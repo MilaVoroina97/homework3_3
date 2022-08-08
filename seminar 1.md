@@ -54,3 +54,4 @@
 
 - ### Лайфхаки по работе с командами Git ###
 
+***git commit -am"your comment"*** - сочетает в себе сразу две команды *git add + git commit*:
